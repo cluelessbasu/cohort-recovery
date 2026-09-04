@@ -1,0 +1,11 @@
+# Build artifacts
+*.o
+*.a
+.deps/
+clustering/cohorts
+
+# Generated output
+*-decomposition.txt
+*-stats.txt
+*-freq.txt
+*-scores.txt
